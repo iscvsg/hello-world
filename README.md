@@ -1,2 +1,2 @@
 # hello-world
-mi primer proyecto en android
+proyecto pruebas en android
